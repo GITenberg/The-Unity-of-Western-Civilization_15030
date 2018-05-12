@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33033'
     url: http://www.gutenberg.org/2009/agents/33033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15030#The-Unity-of-Western-Civilization
 gutenberg_issued: '2005-02-12'
 gutenberg_type: Text
 identifiers:
