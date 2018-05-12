@@ -1,0 +1,38 @@
+_repo: The-Unity-of-Western-Civilization_15030
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Marvin, Francis Sydney
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '33033'
+    url: http://www.gutenberg.org/2009/agents/33033
+description: ''
+gutenberg_issued: '2005-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15030'
+  lccn: '16006193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'International cooperation'
+- !lcc 'CB'
+- !lcsh 'Civilization, Western'
+tableOfContents: 'Introductory: The grounds of unity, by F. S. Marvin -- Unity in
+  prehistoric times, by J. L. Myres -- The contribution of Greece and Rome, by J.
+  A. Smith -- Unity in the middle ages, by E. Barker -- Unity and diversity in law,
+  by W. M. Geldart -- The common elements in European literature and art, by the Rev.
+  Dr. A. J. Carlyle -- Science and philosophy as unifying forces, by L. T. Hobhouse
+  -- The unity of western education, by J. W. Headlam -- Commerce and finance as international
+  forces, by H. Withers -- International industrial legislation, by Constance Smith
+  -- Common ideals of social reform, by C. D. Burns -- The political bases of a world-state,
+  by J. A. Hobson -- Religion as a unifying influence in western civilization, by
+  H. G. Wood -- The growth of humanity, by F. S. Marvin.'
+title: The Unity of Western Civilization
+url: http://www.gutenberg.org/ebooks/15030
